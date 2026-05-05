@@ -11,4 +11,5 @@ class mahasiswa{
     mahasiswa(int iNim);
     mahasiswa(string iNama);
     mahasiswa(int iNim, string iNama);
+    void cetak();
 };
