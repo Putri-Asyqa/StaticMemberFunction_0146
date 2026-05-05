@@ -2,3 +2,4 @@
 using namespace std;
 
 class Mahasiswa {   //membuat class mahasiswa
+public :
